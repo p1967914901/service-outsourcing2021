@@ -1,0 +1,26 @@
+span.change-month {
+    font-size: 20px;
+    float: right;
+    margin-right: 10px;
+}
+
+span.change-month:hover {
+    color: #034c6a;
+}
+* {
+    margin : 0px;
+}
+div.calendar-number {
+    width:  52.857px;
+    height: 40px;
+    float: left;
+    text-align: center;
+    line-height: 40px;
+}
+div.calendar-number:hover, div.calendar-number-select {
+    height: 36px;
+    line-height: 36px;
+    border: 2px solid white;
+    width: 48.857px;
+}
+

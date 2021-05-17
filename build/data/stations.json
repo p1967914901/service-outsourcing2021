@@ -1,0 +1,989 @@
+[{
+        "station": "Sta104",
+        "x": 144,
+        "y": 287,
+        "route": 1
+    },{
+        "station": "Sta65",
+        "x": 154,
+        "y": 319,
+        "route": 1
+    },
+    {
+        "station": "Sta49",
+        "x": 162,
+        "y": 354,
+        "route": 1
+    },
+    {
+        "station": "Sta149",
+        "x": 184,
+        "y": 396,
+        "route": 1
+    },
+    {
+        "station": "Sta74",
+        "x": 224,
+        "y": 428,
+        "route": 1
+    },
+    {
+        "station": "Sta128",
+        "x": 280,
+        "y": 428,
+        "route": 1
+    },
+    {
+        "station": "Sta34",
+        "x": 330,
+        "y": 428,
+        "route": 1
+    },
+    {
+        "station": "Sta106",
+        "x": 381,
+        "y": 428,
+        "route": 1
+    },
+    {
+        "station": "Sta110",
+        "x": 414,
+        "y": 428,
+        "route": 1
+    },
+    {
+        "station": "Sta97",
+        "x": 454,
+        "y": 428,
+        "route": 1
+    },
+    {
+        "station": "Sta80",
+        "x": 504,
+        "y": 428,
+        "route": 1
+    },
+    {
+        "station": "Sta89",
+        "x": 542,
+        "y": 428,
+        "route": 1
+    },
+    {
+        "station": "Sta150",
+        "x": 630,
+        "y": 428,
+        "route": 1
+    },
+    {
+        "station": "Sta154",
+        "x": 694,
+        "y": 428,
+        "route": 1
+    },
+    {
+        "station": "Sta107",
+        "x": 742,
+        "y": 428,
+        "route": 1
+    },
+    {
+        "station": "Sta83",
+        "x": 788,
+        "y": 428,
+        "route": 1
+    },
+    {
+        "station": "Sta108",
+        "x": 822,
+        "y": 428,
+        "route": 1
+    },
+    {
+        "station": "Sta159",
+        "x": 864,
+        "y": 428,
+        "route": 1
+    },
+    {
+        "station": "Sta1",
+        "x": 922,
+        "y": 428,
+        "route": 1
+    }, {
+        "station": "Sta51",
+        "x": 424,
+        "y": 696,
+        "route": 2
+    },
+    {
+        "station": "Sta105",
+        "x": 453,
+        "y": 690,
+        "route": 2
+    },
+    {
+        "station": "Sta24",
+        "x": 482,
+        "y": 682,
+        "route": 2
+    },
+    {
+        "station": "Sta139",
+        "x": 506,
+        "y": 670,
+        "route": 2
+    },
+    {
+        "station": "Sta71",
+        "x": 506,
+        "y": 642,
+        "route": 2
+    },
+    {
+        "station": "Sta57",
+        "x": 506,
+        "y": 614,
+        "route": 2
+    },
+    {
+        "station": "Sta76",
+        "x": 506,
+        "y": 586,
+        "route": 2
+    },
+    {
+        "station": "Sta52",
+        "x": 506,
+        "y": 560,
+        "route": 2
+    },
+    {
+        "station": "Sta68",
+        "x": 506,
+        "y": 528,
+        "route": 2
+    },
+    {
+        "station": "Sta151",
+        "x": 506,
+        "y": 504,
+        "route": 2
+    },
+    {
+        "station": "Sta48",
+        "x": 512,
+        "y": 481,
+        "route": 2
+    },
+    {
+        "station": "Sta27",
+        "x": 524,
+        "y": 457,
+        "route": 2
+    },
+    {
+        "station": "Sta81",
+        "x": 554,
+        "y": 404,
+        "route": 2
+    },
+    {
+        "station": "Sta127",
+        "x": 571,
+        "y": 376,
+        "route": 2
+    },
+    {
+        "station": "Sta123",
+        "x": 600,
+        "y": 376,
+        "route": 2
+    },
+    {
+        "station": "Sta47",
+        "x": 626,
+        "y": 376,
+        "route": 2
+    },
+    {
+        "station": "Sta18",
+        "x": 666,
+        "y": 376,
+        "route": 2
+    },
+    {
+        "station": "Sta79",
+        "x": 694,
+        "y": 376,
+        "route": 2
+    },
+    {
+        "station": "Sta78",
+        "x": 722,
+        "y": 376,
+        "route": 2
+    },
+    {
+        "station": "Sta53",
+        "x": 758,
+        "y": 376,
+        "route": 2
+    },
+    {
+        "station": "Sta163",
+        "x": 780,
+        "y": 376,
+        "route": 2
+    },
+    {
+        "station": "Sta9",
+        "x": 795,
+        "y": 393,
+        "route": 2
+    },
+    {
+        "station": "Sta129",
+        "x": 812,
+        "y": 415,
+        "route": 2
+    }, {
+        "station": "Sta155",
+        "x": 850,
+        "y": 688,
+        "route": 3
+    },
+    {
+        "station": "Sta143",
+        "x": 850,
+        "y": 668,
+        "route": 3
+    },
+    {
+        "station": "Sta156",
+        "x": 850,
+        "y": 645,
+        "route": 3
+    },
+    {
+        "station": "Sta61",
+        "x": 850,
+        "y": 619,
+        "route": 3
+    },
+    {
+        "station": "Sta50",
+        "x": 850,
+        "y": 592,
+        "route": 3
+    },
+    {
+        "station": "Sta119",
+        "x": 840,
+        "y": 571,
+        "route": 3
+    },
+    {
+        "station": "Sta66",
+        "x": 825,
+        "y": 555,
+        "route": 3
+    },
+    {
+        "station": "Sta12",
+        "x": 812,
+        "y": 543,
+        "route": 3
+    },
+    {
+        "station": "Sta161",
+        "x": 795,
+        "y": 526,
+        "route": 3
+    },
+    {
+        "station": "Sta21",
+        "x": 778,
+        "y": 511,
+        "route": 3
+    },
+    {
+        "station": "Sta133",
+        "x": 764,
+        "y": 495,
+        "route": 3
+    },
+    {
+        "station": "Sta22",
+        "x": 750,
+        "y": 481,
+        "route": 3
+    },
+    {
+        "station": "Sta138",
+        "x": 734,
+        "y": 468,
+        "route": 3
+    },
+    {
+        "station": "Sta41",
+        "x": 720,
+        "y": 453,
+        "route": 3
+    },
+    {
+        "station": "Sta30",
+        "x": 705,
+        "y": 438,
+        "route": 3
+    },
+    {
+        "station": "Sta67",
+        "x": 680,
+        "y": 414,
+        "route": 3
+    },
+    {
+        "station": "Sta144",
+        "x": 670,
+        "y": 401,
+        "route": 3
+    },
+    {
+        "station": "Sta5",
+        "x": 629,
+        "y": 361,
+        "route": 3
+    },
+    {
+        "station": "Sta98",
+        "x": 624,
+        "y": 343,
+        "route": 3
+    },
+    {
+        "station": "Sta143",
+        "x": 624,
+        "y": 324,
+        "route": 3
+    },
+    {
+        "station": "Sta29",
+        "x": 624,
+        "y": 289,
+        "route": 3
+    },
+    {
+        "station": "Sta126",
+        "x": 624,
+        "y": 272,
+        "route": 3
+    },
+    {
+        "station": "Sta40",
+        "x": 624,
+        "y": 240,
+        "route": 3
+    },
+    {
+        "station": "Sta131",
+        "x": 624,
+        "y": 216,
+        "route": 3
+    },
+    {
+        "station": "Sta39",
+        "x": 624,
+        "y": 181,
+        "route": 3
+    },
+    {
+        "station": "Sta100",
+        "x": 624,
+        "y": 152,
+        "route": 3
+    },
+    {
+        "station": "Sta167",
+        "x": 645,
+        "y": 145,
+        "route": 3
+    },
+    {
+        "station": "Sta113",
+        "x": 665,
+        "y": 139,
+        "route": 3
+    },
+    {
+        "station": "Sta141",
+        "x": 680,
+        "y": 136,
+        "route": 3
+    },
+    {
+        "station": "Sta142",
+        "x": 732,
+        "y": 123,
+        "route": 3
+    },
+    {
+        "station": "Sta156",
+        "x": 762,
+        "y": 116,
+        "route": 3
+    },
+    {
+        "station": "Sta158",
+        "x": 786,
+        "y": 110,
+        "route": 3
+    },
+    {
+        "station": "Sta44",
+        "x": 808,
+        "y": 102,
+        "route": 3
+    },
+    {
+        "station": "Sta117",
+        "x": 829,
+        "y": 99,
+        "route": 3
+    },
+    {
+        "station": "Sta147",
+        "x": 854,
+        "y": 90,
+        "route": 3
+    },
+    {
+        "station": "Sta42",
+        "x": 876,
+        "y": 90,
+        "route": 3
+    },
+    {
+        "station": "Sta35",
+        "x": 896,
+        "y": 86,
+        "route": 3
+    },
+    {
+        "station": "Sta109",
+        "x": 916,
+        "y": 93,
+        "route": 3
+    },
+    {
+        "station": "Sta33",
+        "x": 929,
+        "y": 103,
+        "route": 3
+    },
+    {
+        "station": "Sta112",
+        "x": 940,
+        "y": 112,
+        "route": 3
+    },
+    {
+        "station": "Sta153",
+        "x": 956,
+        "y": 125,
+        "route": 3
+    },
+    {
+        "station": "Sta121",
+        "x": 975,
+        "y": 137,
+        "route": 3
+    },
+    {
+        "station": "Sta125",
+        "x": 988,
+        "y": 144,
+        "route": 3
+    },
+    {
+        "station": "Sta11",
+        "x": 1009,
+        "y": 156,
+        "route": 3
+    }, {
+        "station": "Sta38",
+        "x": 886,
+        "y": 201,
+        "route": 4
+    },
+    {
+        "station": "Sta58",
+        "x": 847,
+        "y": 201,
+        "route": 4
+    },
+    {
+        "station": "Sta165",
+        "x": 800,
+        "y": 201,
+        "route": 4
+    },
+    {
+        "station": "Sta62",
+        "x": 758,
+        "y": 201,
+        "route": 4
+    },
+    {
+        "station": "Sta19",
+        "x": 673,
+        "y": 201,
+        "route": 4
+    },
+    {
+        "station": "Sta59",
+        "x": 622,
+        "y": 201,
+        "route": 4
+    },
+    {
+        "station": "Sta84",
+        "x": 592,
+        "y": 201,
+        "route": 4
+    }, {
+        "station": "Sta54",
+        "x": 450,
+        "y": 527,
+        "route": 5
+    },
+    {
+        "station": "Sta69",
+        "x": 450,
+        "y": 480,
+        "route": 5
+    },
+    {
+        "station": "Sta16",
+        "x": 450,
+        "y": 380,
+        "route": 5
+    },
+    {
+        "station": "Sta37",
+        "x": 450,
+        "y": 344,
+        "route": 5
+    },
+    {
+        "station": "Sta132",
+        "x": 450,
+        "y": 277,
+        "route": 5
+    },
+    {
+        "station": "Sta96",
+        "x": 465,
+        "y": 231,
+        "route": 5
+    },
+    {
+        "station": "Sta100",
+        "x": 499,
+        "y": 231,
+        "route": 5
+    },
+    {
+        "station": "Sta43",
+        "x": 528,
+        "y": 184,
+        "route": 5
+    }, {
+        "station": "Sta157",
+        "x": 368,
+        "y": 115,
+        "route": 10
+    },
+    {
+        "station": "Sta114",
+        "x": 430,
+        "y": 115,
+        "route": 10
+    },
+    {
+        "station": "Sta168",
+        "x": 475,
+        "y": 115,
+        "route": 10
+    },
+    {
+        "station": "Sta135",
+        "x": 532,
+        "y": 115,
+        "route": 10
+    },
+    {
+        "station": "Sta134",
+        "x": 574,
+        "y": 115,
+        "route": 10
+    },
+    {
+        "station": "Sta85",
+        "x": 648,
+        "y": 115,
+        "route": 10
+    },
+    {
+        "station": "Sta2",
+        "x": 722,
+        "y": 164,
+        "route": 10
+    },
+    {
+        "station": "Sta4",
+        "x": 708,
+        "y": 231,
+        "route": 10
+    },
+    {
+        "station": "Sta103",
+        "x": 673,
+        "y": 240,
+        "route": 10
+    },
+    {
+        "station": "Sta88",
+        "x": 590,
+        "y": 264,
+        "route": 10
+    },
+    {
+        "station": "Sta162",
+        "x": 590,
+        "y": 306,
+        "route": 10
+    },
+    {
+        "station": "Sta94",
+        "x": 590,
+        "y": 352,
+        "route": 10
+    },
+    {
+        "station": "Sta106",
+        "x": 590,
+        "y": 430,
+        "route": 10
+    },
+    {
+        "station": "Sta7",
+        "x": 590,
+        "y": 470,
+        "route": 10
+    },
+    {
+        "station": "Sta6",
+        "x": 590,
+        "y": 511,
+        "route": 10
+    },
+    {
+        "station": "Sta8",
+        "x": 590,
+        "y": 544,
+        "route": 10
+    },
+    {
+        "station": "Sta75",
+        "x": 590,
+        "y": 578,
+        "route": 10
+    },
+    {
+        "station": "Sta102",
+        "x": 590,
+        "y": 633,
+        "route": 10
+    },
+    {
+        "station": "Sta28",
+        "x": 138,
+        "y": 120,
+        "route": 11
+    }, {
+        "station": "Sta124",
+        "x": 172,
+        "y": 120,
+        "route": 11
+    },
+    {
+        "station": "Sta99",
+        "x": 194,
+        "y": 137,
+        "route": 11
+    },
+    {
+        "station": "Sta166",
+        "x": 212,
+        "y": 156,
+        "route": 11
+    },
+    {
+        "station": "Sta36",
+        "x": 230,
+        "y": 174,
+        "route": 11
+    },
+    {
+        "station": "Sta122",
+        "x": 246,
+        "y": 190,
+        "route": 11
+    },
+    {
+        "station": "Sta77",
+        "x": 267,
+        "y": 208,
+        "route": 11
+    },
+    {
+        "station": "Sta140",
+        "x": 302,
+        "y": 246,
+        "route": 11
+    },
+    {
+        "station": "Sta111",
+        "x": 321,
+        "y": 256,
+        "route": 11
+    },
+    {
+        "station": "Sta13",
+        "x": 337,
+        "y": 281,
+        "route": 11
+    },
+    {
+        "station": "Sta170",
+        "x": 355,
+        "y": 296,
+        "route": 11
+    },
+    {
+        "station": "Sta55",
+        "x": 382,
+        "y": 305,
+        "route": 11
+    },
+    {
+        "station": "Sta20",
+        "x": 415,
+        "y": 305,
+        "route": 11
+    },
+    {
+        "station": "Sta23",
+        "x": 449,
+        "y": 305,
+        "route": 11
+    },
+    {
+        "station": "Sta56",
+        "x": 482,
+        "y": 305,
+        "route": 11
+    },
+    {
+        "station": "Sta118",
+        "x": 510,
+        "y": 305,
+        "route": 11
+    },
+    {
+        "station": "Sta115",
+        "x": 541,
+        "y": 305,
+        "route": 11
+    },
+    {
+        "station": "Sta86",
+        "x": 665,
+        "y": 305,
+        "route": 11
+    },
+    {
+        "station": "Sta46",
+        "x": 694,
+        "y": 305,
+        "route": 11
+    },
+    {
+        "station": "Sta63",
+        "x": 720,
+        "y": 305,
+        "route": 11
+    },
+    {
+        "station": "Sta3",
+        "x": 750,
+        "y": 305,
+        "route": 11
+    },
+    {
+        "station": "Sta25",
+        "x": 774,
+        "y": 305,
+        "route": 11
+    },
+    {
+        "station": "Sta146",
+        "x": 799,
+        "y": 305,
+        "route": 11
+    },
+    {
+        "station": "Sta130",
+        "x": 825,
+        "y": 320,
+        "route": 11
+    },
+    {
+        "station": "Sta120",
+        "x": 847,
+        "y": 332,
+        "route": 11
+    },
+    {
+        "station": "Sta82",
+        "x": 874,
+        "y": 348,
+        "route": 11
+    },
+    {
+        "station": "Sta164",
+        "x": 897,
+        "y": 360,
+        "route": 11
+    },
+    {
+        "station": "Sta152",
+        "x": 928,
+        "y": 380,
+        "route": 11
+    },
+    {
+        "station": "Sta45",
+        "x": 961,
+        "y": 398,
+        "route": 11
+    }, {
+        "station": "Sta73",
+        "x": 328,
+        "y": 498,
+        "route": 12
+    },
+    {
+        "station": "Sta14",
+        "x": 370,
+        "y": 498,
+        "route": 12
+    },
+    {
+        "station": "Sta137",
+        "x": 415,
+        "y": 498,
+        "route": 12
+    },
+    {
+        "station": "Sta136",
+        "x": 554,
+        "y": 498,
+        "route": 12
+    },
+    {
+        "station": "Sta101",
+        "x": 630,
+        "y": 498,
+        "route": 12
+    },
+    {
+        "station": "Sta17",
+        "x": 667,
+        "y": 498,
+        "route": 12
+    },
+    {
+        "station": "Sta26",
+        "x": 707,
+        "y": 498,
+        "route": 12
+    },
+    {
+        "station": "Sta90",
+        "x": 757,
+        "y": 399,
+        "route": 12
+    },
+    {
+        "station": "Sta95",
+        "x": 772,
+        "y": 341,
+        "route": 12
+    },
+    {
+        "station": "Sta72",
+        "x": 798,
+        "y": 246,
+        "route": 12
+    },
+    {
+        "station": "Sta93",
+        "x": 742,
+        "y": 246,
+        "route": 12
+    },
+    {
+        "station": "Sta31",
+        "x": 524,
+        "y": 246,
+        "route": 12
+    },
+    {
+        "station": "Sta92",
+        "x": 407,
+        "y": 246,
+        "route": 12
+    },
+    {
+        "station": "Sta116",
+        "x": 370,
+        "y": 246,
+        "route": 12
+    },
+    {
+        "station": "Sta32",
+        "x": 272,
+        "y": 292,
+        "route": 12
+    },
+    {
+        "station": "Sta91",
+        "x": 285,
+        "y": 342,
+        "route": 12
+    },
+    {
+        "station": "Sta60",
+        "x": 297,
+        "y": 386,
+        "route": 12
+    },
+    {
+        "station": "Sta148",
+        "x": 316,
+        "y": 460,
+        "route": 12
+    }
+]

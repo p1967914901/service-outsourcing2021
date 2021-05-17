@@ -1,0 +1,68 @@
+div#map-view {
+    width: 100%;
+    background-color:#081832;
+    height: 770px;
+}
+
+div#OD-view  {
+    width: 480px;
+    height: 400px;
+    /* background-color: red; */
+    box-shadow: -10px 0px 15px #034c6a inset, /*å·¦è¾¹é˜´å½±*/ 0px -10px 15px #034c6a inset, /*ä¸Šè¾¹é˜´å½±*/ 10px 0px 15px #034c6a inset, /*å³è¾¹é˜´å½±*/ 0px 10px 15px #034c6a inset;
+    border: 1px solid #034c6a;
+    box-sizing: border-box;
+    float: right;
+    margin-top: 15px;
+}
+div#OD-view-title  {
+    color: white;
+    position: relative;
+    top: 15px;
+    left: 165px;
+    width: 160px;
+    /* background-color: red; */
+}
+div#ages-view  {
+    width: 480px;
+    height: 310px;
+    /* background-color: red; */
+    box-shadow: -10px 0px 15px #034c6a inset, /*å·¦è¾¹é˜´å½±*/ 0px -10px 15px #034c6a inset, /*ä¸Šè¾¹é˜´å½±*/ 10px 0px 15px #034c6a inset, /*å³è¾¹é˜´å½±*/ 0px 10px 15px #034c6a inset;
+    border: 1px solid #034c6a;
+    box-sizing: border-box;
+    float: right;
+    margin-top: 15px;
+}
+div#ages-pie {
+    width: 440px;
+    height: 270px;
+    /* background-color: white; */
+    margin: 20px 0px 20px 20px;
+}
+
+div#changePie {
+    position: absolute;
+    top: 565px;
+    z-index: 1;
+    left: 1570px;
+    width: 80px;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    /* border: 1px solid #345f92; */
+    font-size: 13px;
+    color: #fff;
+    border: 1px solid #345f92;
+}
+#changePie:hover {
+    box-shadow: -5px 0px 10px #034c6a inset,
+        /*å·¦è¾¹é˜´å½±*/
+        0px -5px 10px #034c6a inset,
+        /*ä¸Šè¾¹é˜´å½±*/
+        5px 0px 10px #034c6a inset,
+        /*å³è¾¹é˜´å½±*/
+        0px 5px 10px #034c6a inset;
+    user-select: none;
+    box-sizing: border-box;
+}
